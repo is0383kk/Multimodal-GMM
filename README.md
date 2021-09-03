@@ -35,9 +35,6 @@ Allows clustering of data sampled from two or more different multivariate normal
 The image below shows the actual generated observables for the two modalities.（The cluster numbers for the two data points are the same）　　
 <div>
 	<img src='/image/data1.png' height="200px">
-</div>
-
-<div>
 	<img src='/image/data2.png' height="200px">
 </div>
 
