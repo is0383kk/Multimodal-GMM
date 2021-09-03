@@ -32,6 +32,15 @@ Allows clustering of data sampled from two or more different multivariate normal
 1. The first step is to create the observation data using **make_data.py**. Then, create **data1.txt** and **data2.txt**. **true_label.txt** is the label data for calculating ARI.
 2. After that, you can use **mgmm.py** to run the clustering.  
 
+The image below shows the actual generated observables for the two modalities.　　
+<div>
+	<img src='/image/data1.png' height="200px">
+</div>
+
+<div>
+	<img src='/image/data2.png' height="200px">
+</div>
+
 # Special Thanks  
 
 [【Python】4.4.2：ガウス混合モデルにおける推論：ギブスサンプリング【緑ベイズ入門のノート】](https://www.anarchive-beta.com/entry/2020/11/28/210948)
