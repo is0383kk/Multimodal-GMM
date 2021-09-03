@@ -33,7 +33,3 @@ The image below shows the actual ARI measured by mgmm.py, where a value close to
 <div>
 	<img src='/image/ari.png' height="250px">
 </div>
-
-# Special Thanks  
-
-[【Python】4.4.2：ガウス混合モデルにおける推論：ギブスサンプリング【緑ベイズ入門のノート】](https://www.anarchive-beta.com/entry/2020/11/28/210948)
