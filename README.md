@@ -8,11 +8,6 @@ Allows clustering of data sampled from two or more different multivariate normal
 <div>
 	<img src='/image/mgmm_model.png' height="200px">
 	<img src='/image/gen_process.png' height="200px">
-</div>
-
-## Variable definition and description  
-
-<div>
 	<img src='/image/define.png' height="200px">
 </div>
 
