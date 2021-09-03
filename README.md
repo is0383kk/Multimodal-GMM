@@ -1,5 +1,8 @@
 # Multimodal-GMM
 
+Implementation of Multimodal-GMM with Gibbs sampling algorithm.  
+Allows clustering of data sampled from two or more different multivariate normal distributions  
+
 ## Graphical model  
 
 <div>
@@ -23,6 +26,10 @@
 <div>
 	<img src='/image/algorithm.png' height="250px">
 </div>
+
+# How to run
+
+The first step is to create the observation data using **make_data.py**.  
 
 # Special Thanks  
 
