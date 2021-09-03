@@ -29,7 +29,8 @@ Allows clustering of data sampled from two or more different multivariate normal
 
 # How to run
 
-The first step is to create the observation data using **make_data.py**.  
+1. The first step is to create the observation data using **make_data.py**. Then, create **data1.txt** and **data2.txt**. **true_label.txt** is the label data for calculating ARI.
+2. After that, you can use **mgmm.py** to run the clustering.  
 
 # Special Thanks  
 
