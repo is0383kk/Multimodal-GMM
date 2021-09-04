@@ -6,7 +6,7 @@ Allows clustering of data sampled from two or more different multivariate normal
 ## Graphical model  
 
 <div>
-	<img src='/image/mgmm_model.png' height="250px">
+	<img src='/image/mgmm_model.png' height="250px" width="300">
 	<img src='/image/gen_process.png' height="250px">
 	<img src='/image/define.png' height="250px">
 </div>
