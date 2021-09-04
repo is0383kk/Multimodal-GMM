@@ -14,7 +14,7 @@ Allows clustering of data sampled from two or more different multivariate normal
 ## Algorithm of gibbssampling  
 
 <div>
-	<img src='/image/algorithm.png' height="250px">
+	<img src='/image/algorithm1.png' height="250px">
 </div>
 
 # How to run
