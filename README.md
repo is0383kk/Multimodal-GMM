@@ -1,7 +1,9 @@
 # Multimodal-GMM
 
+
 Implementation of Multimodal-GMM with Gibbs sampling algorithm.  
 Allows clustering of data sampled from two or more different multivariate normal distributions  
+
 
 ## Graphical model  
 
